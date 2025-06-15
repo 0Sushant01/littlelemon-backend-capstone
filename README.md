@@ -3,6 +3,13 @@
 
 Django REST API for the Little Lemon restaurant – built as a capstone project to demonstrate backend development skills including model design, authentication, API creation, testing, and deployment.
 
+<<<<<<< HEAD
+=======
+# 🍋 Little Lemon API – Capstone Project
+
+This is the backend REST API for **Little Lemon**, a fictional restaurant. Built as part of the final capstone project in the Meta Backend Developer Certificate program, this project demonstrates core backend development skills using **Django** and the **Django REST Framework (DRF)**.
+
+>>>>>>> bd3b88142cf4132f9fce6e62bca6414169061b11
 ---
 
 ## 🚀 Project Features
@@ -30,7 +37,10 @@ Django REST API for the Little Lemon restaurant – built as a capstone project 
 
 ## 📂 Project Structure
 
+<<<<<<< HEAD
 ```
+=======
+>>>>>>> bd3b88142cf4132f9fce6e62bca6414169061b11
 littlelemon/
 ├── littlelemon/                # Project-level settings and configuration
 │   ├── __init__.py
@@ -59,9 +69,13 @@ littlelemon/
 ├── requirements.txt            # Python dependencies
 ├── manage.py                   # Django management script
 └── README.md                   # Project documentation
+<<<<<<< HEAD
 ```
 
 ---
+=======
+
+>>>>>>> bd3b88142cf4132f9fce6e62bca6414169061b11
 
 ## 🔐 Authentication & Roles
 
@@ -80,6 +94,7 @@ Authentication handled using **Djoser** with token-based auth.
    ```bash
    git clone https://github.com/your-username/little-lemon-api-capstone.git
    cd little-lemon-api-capstone
+<<<<<<< HEAD
    ```
 
 2. **Create and activate a virtual environment:**
@@ -187,3 +202,5 @@ This project is for educational purposes as part of the **Meta Backend Developer
 **Sushant**  
 Capstone project submission for Coursera / Meta  
 RNS Institute of Technology
+=======
+>>>>>>> bd3b88142cf4132f9fce6e62bca6414169061b11
