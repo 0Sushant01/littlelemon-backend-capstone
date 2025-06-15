@@ -69,13 +69,7 @@ littlelemon/
 ├── requirements.txt            # Python dependencies
 ├── manage.py                   # Django management script
 └── README.md                   # Project documentation
-<<<<<<< HEAD
-```
 
----
-=======
-
->>>>>>> bd3b88142cf4132f9fce6e62bca6414169061b11
 
 ## 🔐 Authentication & Roles
 
