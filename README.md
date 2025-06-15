@@ -33,12 +33,34 @@ This is the backend REST API for **Little Lemon**, a fictional restaurant. Built
 ## 📂 Project Structure
 
 littlelemon/
-├── littlelemon/ # Django project settings
-├── restaurant/ # Main app with views, models, serializers
-├── static/ # Static HTML files (if served)
-├── templates/ # HTML templates
-├── requirements.txt # Project dependencies
-└── manage.py # Django project manager
+├── littlelemon/            # Project-level settings and configuration
+│   ├── __init__.py
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+│
+├── restaurant/             # Main Django app (views, models, serializers, urls)
+│   ├── migrations/
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── models.py
+│   ├── serializers.py
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+│
+├── static/                 # Static files (CSS, JS, images)
+│   └── ...
+│
+├── templates/              # HTML templates
+│   └── ...
+│
+├── requirements.txt        # Python dependencies
+├── manage.py               # Django management script
+└── README.md               # Project documentation
+
 
 
 ---
