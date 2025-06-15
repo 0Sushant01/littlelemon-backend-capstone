@@ -195,6 +195,6 @@ This project is for educational purposes as part of the **Meta Backend Developer
 
 **Sushant**  
 Capstone project submission for Coursera / Meta  
-RNS Institute of Technology
+
 =======
 >>>>>>> bd3b88142cf4132f9fce6e62bca6414169061b11
